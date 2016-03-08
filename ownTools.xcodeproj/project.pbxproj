@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		BA0FED5D1BF4724D00A15CD5 /* ZYModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BA0FED5C1BF4724D00A15CD5 /* ZYModel.m */; };
+		BA10D8321C8E777500D16950 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA10D8311C8E777500D16950 /* TableViewController.m */; };
 		BA2B74431AD4CADA0067E39B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA2B74411AD4CADA0067E39B /* Main.storyboard */; };
 		BA2B74451AD4CADA0067E39B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2B74441AD4CADA0067E39B /* Images.xcassets */; };
 		BA2B74481AD4CADA0067E39B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA2B74461AD4CADA0067E39B /* LaunchScreen.xib */; };
@@ -46,6 +47,8 @@
 /* Begin PBXFileReference section */
 		BA0FED5B1BF4724D00A15CD5 /* ZYModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYModel.h; sourceTree = "<group>"; };
 		BA0FED5C1BF4724D00A15CD5 /* ZYModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYModel.m; sourceTree = "<group>"; };
+		BA10D8301C8E777500D16950 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		BA10D8311C8E777500D16950 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
 		BA2B74341AD4CADA0067E39B /* ownTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ownTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA2B74381AD4CADA0067E39B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA2B74421AD4CADA0067E39B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -208,6 +211,8 @@
 				BAACF32A1AD7B18600CF4DBB /* main.m */,
 				BAACF32B1AD7B18600CF4DBB /* ViewController.h */,
 				BAACF32C1AD7B18600CF4DBB /* ViewController.m */,
+				BA10D8301C8E777500D16950 /* TableViewController.h */,
+				BA10D8311C8E777500D16950 /* TableViewController.m */,
 			);
 			path = main;
 			sourceTree = "<group>";
@@ -322,6 +327,7 @@
 				BAB9254A1AE616AB0035853F /* ZYCustomCategory.m in Sources */,
 				BAACF3221AD7B13600CF4DBB /* ZYTableViewCellBase.m in Sources */,
 				BA0FED5D1BF4724D00A15CD5 /* ZYModel.m in Sources */,
+				BA10D8321C8E777500D16950 /* TableViewController.m in Sources */,
 				BAACF32F1AD7B18600CF4DBB /* hehe.m in Sources */,
 				BA794E551BBBDF1700D72164 /* SouFunXFAttributeLabel.m in Sources */,
 				BAFE50F41B3024010054BC54 /* ZYPopoverView.m in Sources */,
